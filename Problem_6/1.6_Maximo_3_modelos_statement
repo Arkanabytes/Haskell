@@ -1,0 +1,11 @@
+--1.6 Maximum of 3 models
+--Define the maxtres function such that (maxTres x y z) is the maximum of x, y, z for example,
+--- maxTres 6 2 4 == 6
+--- maxTres 6 7 4 == 7
+--- maxTres 6 7 9 == 9
+
+--1.6 Maximo de 3 modelos
+--Definir la funcion maxtres tal que (maxTres x y z) es el maximo de x, y, z por ejemplo,
+---maxTres 6 2 4 == 6
+---maxTres 6 7 4 == 7
+---maxTres 6 7 9 == 9
