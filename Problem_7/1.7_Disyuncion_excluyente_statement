@@ -1,0 +1,7 @@
+--1.7 Exclusionary disjunction
+--- Define the xor1 function that calculates the excluding disjunction from the truth table.
+--Use 4 equations, one for each line of the table.
+
+--1.7 Disyuncion excluyente
+---Definir la funcion xor1 que calcule la disyuncion excluyente a partir de la tabla de la verdad.
+--Usar 4 ecuaciones, una por cada linea de la tabla.
