@@ -1,0 +1,9 @@
+--1.5 last digit of a number
+---Define the last digit function such that (last digit x) is the last digit of number x
+----for example.
+---- last figure 325 == 5
+
+--1.5 ultima cifra de un numero
+---Definir la funcion ultimaCifra tal que (ultimaCifra x) es la ultima cifra del numero x
+----por ejemplo.
+----ultimaCifra 325 == 5
