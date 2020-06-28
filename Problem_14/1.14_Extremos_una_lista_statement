@@ -1,3 +1,8 @@
+--1.14 Endpoints of a list
+--- Define the function ends such that (ends n xs) is the list formed by the first n
+--- elements of xs and the final elements of xs. For example,
+----- end 3 [2,6,7,1,2,4,5,8,9,2,3,] == [2,6,7,9,2,3]
+
 --1.14 Extremos de una lista
 ---Definir la funcion extremos tal que (extremos n xs) es la lista formada por los n primeros 
 ---elementos de xs y los finales elementos de xs. Por ejemplo,
