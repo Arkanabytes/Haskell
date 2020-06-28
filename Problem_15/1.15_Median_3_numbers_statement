@@ -1,3 +1,10 @@
+--1.15 Median of 3 numbers
+--- Define the median function such that (median x and z) is the median number of the three
+--numbers x and y z. For example,
+----- medium 3 2 5 == 3
+----- medium 2 4 5 == 4
+----- medium 2 6 5 == 5
+----- medium 2 6 6 == 6
 
 --1.15 Mediano de 3 numeros 
 ---Definir la funcion mediano tal que (mediano x y z) es el numero mediano de los tres 
