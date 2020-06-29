@@ -1,3 +1,7 @@
 --1.12 End of a list
 --- Define the final function such that (final n xs) is the list formed by the n final elements of xs. For example.
 ----- end 3 [2,5,4,7,9,6] == [7,9,6]
+
+--1.12 Finales de una lista 
+---Definir la funcion finales  tal que (finales n xs) es la lista formada por los n finales elementos de xs. Por ejemplo.
+-----finales 3 [2,5,4,7,9,6] == [7,9,6]
