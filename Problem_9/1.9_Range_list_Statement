@@ -1,4 +1,7 @@
-
+--1.9 Range of a list
+--- Define the range function such that (range xs) is the island formed by the smallest and largest element of xs. For example,
+--- range [3,2,7,5] == [2,7]
+--- Indication: minimun and maximun can be used
 
 --1.9 Rango de una lista
 ---Definir la funcion rango tal que (rango xs) es la isla formada por el menor y mayor elemento de xs.Por ejemplo,
