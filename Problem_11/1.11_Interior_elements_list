@@ -1,5 +1,9 @@
-
 --1.11 Interior elements of a list
 --- Define the inner function such that (inner xs) is the list obtained by removing the extremes of the list xs, For example,
 ---- interior [2,5,3,7,3] == [5,3,7]
 ---- interior [2. . 7] == [3,4,5,6]
+
+--1.11 Elementos interiores de una lista
+---Definir la funcion interior tal que (interior xs) es la lista obtenida eliminando los extremos de la lista xs, Por ejemplo,
+----interior [2,5,3,7,3] == [5,3,7]
+----interior [2. . 7]    == [3,4,5,6]
