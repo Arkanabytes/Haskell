@@ -1,3 +1,9 @@
+--1.13 Segment of a list
+--- Define the segment function such that (segment m n xs) is the list of the elements of xs between positions m and n. For example.
+----- segment 3 4 [3, 4, 1, 2, 7, 9, 0] == [1,2]
+----- segment 3 5 [3, 4, 1, 2, 7, 9, 0] == [1,2,7]
+----- segment 5 3 [3, 4, 1, 2, 7, 9, 0] == []
+
 --1.13 Segmento de una lista
 ---Definir la funcion segmento tal que (segmento m n xs) es la lista de los elementos de xs comprendidos entre las posiciones m y n. Por ejemplo.
 -----segmento 3 4 [3, 4, 1, 2, 7, 9, 0] == [1,2]
