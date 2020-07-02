@@ -1,4 +1,6 @@
+--#Arkana#
 --1.4 area of a circular crown
+
 --- Define the function areaDeCoronaCircular such that (areaDeCoronaCircular r1 r2)
 --is the area of a crown of inner radius r1 and radius r2, for example,
 ----- areaDeCoronaCircular 1 2 == 9.4247796076938
@@ -6,6 +8,7 @@
 ----- areaDeCoronaCircular 3 5 == 50.265448255743669
 
 --1.4 área de una corona circular
+
 ---Definir la funcion areaDeCoronaCircular tal que (areaDeCoronaCircular r1 r2)
 --es el area de una corona de radio interior r1 y radio r2, por ejemplo,
 -----areaDeCoronaCircular 1 2 == 9.4247796076938
