@@ -1,3 +1,4 @@
+--#Arkana#
 --1.10 Palindrome recognition
 --- Define the palindrome function such that (palindrome xs) is verified if xs is a palindrome; that is, it is the same as reading xs from left to right as from right to left.
 ---For example,
