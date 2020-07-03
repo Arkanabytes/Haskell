@@ -1,4 +1,5 @@
 --#Arkana#
+
 --1.16.2 Equal and difference of three elements
 --Define the threeDifferent function such that (threeDifferent X and Z) is verified
 --if the elements x, y, z are different, for example.
