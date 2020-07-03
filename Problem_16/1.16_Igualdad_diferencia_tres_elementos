@@ -1,3 +1,5 @@
+--#Arkana#
+
 --1.16 Equality and difference of three elements
 --- Define the three-equal function such that (three-equal x and z) it is verified if the
 --- elements x, y and z are equal, for example,
