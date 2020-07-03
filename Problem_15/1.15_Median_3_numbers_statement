@@ -1,3 +1,4 @@
+--#Arkana#
 --1.15 Median of 3 numbers
 --- Define the median function such that (median x and z) is the median number of the three
 --numbers x and y z. For example,
