@@ -1,3 +1,4 @@
+--#Arkana#
 --1.16 Igualdad y diferencia de tres elementos
 ---Definir la funcion tresIguales tal que (tresIguales x y z) se verifica si los 
 ---elementos x, y y z son iguales, Por ejemplo,
