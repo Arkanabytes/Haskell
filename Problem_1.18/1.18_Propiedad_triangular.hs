@@ -1,3 +1,5 @@
+--Arkana
+
 --1.18 Propiedad trianqular
 --Las longitudes de los lados de un triangulo no pueden ser cualesquiera.Para que pueda construirse el triangulo, 
 --tiene que cumplirse la propiedad triangular; es decir, longuitud de cada lado tiene que ser un menor que la suma
