@@ -1,4 +1,5 @@
 --Arkana
+
 ---1.17 Igualdas de 4 elementos
 --Definir la funcion cuatroIguales tal que (cuatroIguales x y z u) se verifica
 --si los elementos x, y, z y u son iguales ,Por ejemplo.
