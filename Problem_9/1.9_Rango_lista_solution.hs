@@ -1,4 +1,4 @@
---#Arkana#
+--Arkana
 --1.9 Rango de una lista
 
 ---Definir la funcion rango tal que (rango xs) es la isla formada por el menor y mayor elemento de xs.Por ejemplo,
