@@ -1,4 +1,5 @@
---#Arkana#
+--Arkana
+
 --1.9 Range of a list
 --- Define the range function such that (range xs) is the island formed by the smallest and largest element of xs. For example,
 --- range [3,2,7,5] == [2,7]
