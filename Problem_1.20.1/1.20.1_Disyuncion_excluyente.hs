@@ -1,4 +1,4 @@
---1.19 Disyuncion excluyente
+--1.20.1 Disyuncion excluyente
 ---Ejercicio Definir la funcion xor1 que calcule la disyuncion excluyente a partir de la tabla de la
 ---verdad.Usar 4 ecuaciones, una por cada linea de la tabla.
 
