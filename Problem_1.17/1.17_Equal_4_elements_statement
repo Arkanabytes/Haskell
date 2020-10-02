@@ -1,6 +1,5 @@
 ---1.17 Equal to 4 elements
---Define the function Four Equals such that (four Equals x and z u) is verified
---if the elements x, y, z and u are the same, for example.
+--Define the function Four Equals such that (four Equals x and z u) is verified if the elements x, y, z and u are the same, for example.
 ------ four Equals 5 5 5 5 == True
 ------ four Equals 5 5 4 5 == False
 --indication to use the previous function
