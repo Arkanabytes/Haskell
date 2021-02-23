@@ -10,3 +10,11 @@ maximum' (x:xs)
     | x > maxTail = x
     | otherwise   = maxTail
     where maxTail = maximum' xs
+
+--Una forma más clara de escribir la función maximum' es usando la función max. Si recuerdas, la función max toma dos cosas que puedan ser ordenadas y devuelve la 
+--mayor de ellas. Así es como podríamos reescribir la función utilizando max:
+
+maximum' :: (Ord a) => [a] -> a
+maximum' []     = error "maximum of empty list"
+maximum' [x]    = x
+maximum' (x:xs) = x `max` (maximum' xs)
