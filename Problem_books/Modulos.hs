@@ -5,3 +5,7 @@
 --en líneas separadas. Vamos a importar el módulo Data.List, el cual contiene un puñado de útiles funciones para trabajar con listas, y utilizaremos una función 
 --que exporta dicho módulo para crear una función que nos diga cuantos elementos únicos hay en una lista.
 
+import Data.List
+
+numUniques :: (Eq a) => [a] -> Int
+numUniques = length . nub
