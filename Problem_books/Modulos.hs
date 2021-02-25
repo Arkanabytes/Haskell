@@ -9,3 +9,8 @@ import Data.List
 
 numUniques :: (Eq a) => [a] -> Int
 numUniques = length . nub
+
+
+--Cuando realizamos import Data.List, todas las funciones que Data.List exporta están disponibles en el espacio de nombres global. Esto significa que podemos acceder
+--a todas estas funciones desde nuestro script. nub es una función que está definida en Data.List la cual toma una lista y devuelve otra sin elementos duplicados. 
+--Componer length y nub haciendo length . nub produce una función equivalente a \xs -> length (nub xs).
