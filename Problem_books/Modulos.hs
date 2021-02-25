@@ -1,4 +1,4 @@
-
+--Cargando Modulos
 
 --La sintaxis para importar módulos en un script de Haskell es import <module name>. Debe aparecer antes de que definamos cualquier función, así que las 
 --importaciones de módulos suelen estar al principio de los ficheros. Un script puede, obviamente, importar varios módulos. Simplemente hay que poner cada import 
