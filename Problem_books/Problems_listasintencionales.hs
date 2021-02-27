@@ -1,3 +1,5 @@
+--Listas
+
 -- En este caso, la lista intensional que deberíamos usar sería [x*2 | x <- [1..10]]. x es extraído de [1..10] y para cada elemento de [1..10] (que hemos 
 --ligado a x) calculamos su doble. Su resultado es:
 
