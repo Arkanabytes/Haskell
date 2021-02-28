@@ -1,3 +1,5 @@
+--Funciones principales
+
 doubleMe x = x + x
 
 --Las funciones son definidas de forma similar a como son llamadas. El nombre de la función es seguido por los parámetros separados por espacios. Pero, cuando estamos
