@@ -1,4 +1,4 @@
---#Arkana#
+--Arkana
 
 --1.16.2 Igualdas y diferencia de tres elementos
 --Definir la funcion tresDiferentes tal que (tresDifenrentes x y z) se verifica
